@@ -1,4 +1,4 @@
-## Costs table and filter
+## Cost table and filter
 
 Android assignment application fetching SprintForm API.
 
