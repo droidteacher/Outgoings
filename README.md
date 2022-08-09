@@ -1,4 +1,4 @@
-## Movie Browser
+## Costs table and filter
 
 Android assignment application fetching SprintForm API.
 
