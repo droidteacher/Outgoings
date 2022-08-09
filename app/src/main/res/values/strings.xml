@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Outgoings</string>
+    <string name="header_company_name">sprintform</string>
+    <string name="header_subtitle">spending tracker tool</string>
+</resources>
